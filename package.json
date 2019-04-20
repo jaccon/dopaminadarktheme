@@ -1,0 +1,25 @@
+{
+    "name": "dopamina-dark-theme",
+    "displayName": "Dopamina Dark Theme",
+    "description": "Um tema para você atingir o full dopamina na hora de desenvolver ;-)",
+    "publisher": "jaccon",
+    "version": "1.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dopamina Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dopamina Dark Theme-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "vsce": "^1.59.0"
+    }
+}
