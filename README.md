@@ -14,13 +14,13 @@ Um tema criado para os devs atingirem o full dopamina como fiz nosso amigo Filip
 
 1. Install the theme
 2. Reload VSCode
-3. Press ctrl(⌘) + k, then press ctrl(⌘) + t, you will see a theme selection interface. Choose 'Hyper Term Black'.
+3. Press ctrl(⌘) + k, then press ctrl(⌘) + t, you will see a theme selection interface. Choose 'Dopamina Dark Theme'.
 4. Change the following user settings on VS Code:
 
 ```javascript
 {
     "editor.fontFamily": "Menlo, 'DejaVu Sans Mono', Consolas, 'Lucida Console', monospace",
-    "workbench.colorTheme": "Hyper Term Black",
+    "workbench.colorTheme": "Dopamina Dark Theme",
     "editor.cursorStyle": "block",
     "editor.minimap.enabled": false,
     "editor.renderLineHighlight": "none"
